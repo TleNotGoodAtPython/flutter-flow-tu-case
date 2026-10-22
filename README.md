@@ -1,20 +1,32 @@
 # flutter-flow-tu-case
   ## an example of UX/UI
   ### Welcome Page
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/3228da48-47e0-4199-9fc7-aeec9675d356" />
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/ac396fa8-c32a-4c0c-a238-c1282c8f7325" />
+
+
+
   
-  ### Test Page 
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/87bdb904-c9a5-4c6e-88b2-c8a8027271ff" />
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/9cd5a1ca-1cac-4276-9777-4e74b895dd45" />
+  ### Mode Selection Page 
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/1459ef7c-353f-48d3-ac45-fdb75efea40d" />
+ 
+
+  ### Test Page
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/3b1ecf56-d4ce-47cb-b438-2d2607f06457" />
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/307865a7-5c49-4e7d-bb7c-777a6f744b4b" />
+
+
+  
+
 
   ### Summarize Page & Recommendations
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/de4bc968-875e-49ad-9f4b-3181029b1369" />
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/76b44c8c-7537-4dce-881a-c63a4f97e500" />
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/2021c9ae-b231-4299-a894-1f92d5b6df8c" />
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/750e3474-9d0e-4c49-bcbc-72b25403a9af" />
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/11cae09e-fcb7-4b8c-91d4-0cb21371c9b9" />
+
+
 
   ### History & Profile
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/d1191232-10d1-423d-81c6-486f3e34977b" />
-  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/2eda7602-f7a8-4ca7-a0cb-ac92c4c56797" />
+  <img width="326" height="696" alt="image" src="https://github.com/user-attachments/assets/6a0b1d23-1b3a-4bb3-b754-5337c23c691d" />
+  
 
 
 
